@@ -1,0 +1,9 @@
+# 敏感文件 —— 严禁上传到公开仓库
+*.txt
+*.password
+.homepage-password
+homepage-source-plain.html
+密码*
+*.pem
+*.key
+.env
